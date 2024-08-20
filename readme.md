@@ -12,11 +12,11 @@ Some of the required (or desirable) dependecies include numba and [exafmm](https
 
 ## Philosophy: integrate the existing
 
-The open-source EM modelling and simulation ecosystem includes a number of high-quality and mature tools, each of which does one thing, and one thing only, and it does really well. 
+The open-source EM modeling and simulation ecosystem features several high-quality, mature tools, each designed to excel at a specific task.
 
-However, there are few examples of how to integrate the various different tools into a consistent workflow that is useful in applications, and is also documented well enough to increase adoption. 
+However, there are few examples of how to integrate these diverse tools into a unified workflow that is both practical for real-world applications and well-documented to encourage adoption.
 
-The goal of this project is to bridge that gap, and show how existing open-source tools can be effectively used to address real industry applications.
+This project aims to bridge that gap by demonstrating how existing open-source tools can be effectively combined to tackle real industry challenges.
 
 ### Component #1: Python-based parametric CAD in VSCode
 
@@ -70,6 +70,6 @@ Feel free to ask us anything on the Discussion Forum, or reach out at info@epsil
 
 The [EpsilonForge](www.EpsilonForge.com) is a startup company, in the process of spinning off from research activities at the University of Buenos Aires and CONICET. It constitutes a vehicle to provide funding for software development, support, consulting, and training activities in the area of electromagnetic simulation. 
 
-Our core value is that of easing engineering innovation trough cost-effective simulation software and associated services.
+Our core value lies in facilitating engineering innovation through cost-effective simulation software and services
 
 [Check out our website](https://www.epsilonforge.com/) for more information.
