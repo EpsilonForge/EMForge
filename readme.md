@@ -1,3 +1,6 @@
+![emforge cad](https://github.com/user-attachments/assets/907a9818-7bbf-4d25-8178-2ffec14e7a99)
+
+
 # What is EMForge?
 
 EMForge is an open-source project by [EpsilonForge](www.EpsilonForge.com) to demonstrate an EM modelling and simulation workflow which combines the following open-source tools:
