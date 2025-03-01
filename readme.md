@@ -1,5 +1,4 @@
-![emforge cad](https://github.com/user-attachments/assets/907a9818-7bbf-4d25-8178-2ffec14e7a99)
-
+<img src="https://github.com/user-attachments/assets/907a9818-7bbf-4d25-8178-2ffec14e7a99" alt="drawing" style="width:400px;"/>
 
 # What is EMForge?
 
